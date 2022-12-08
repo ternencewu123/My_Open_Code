@@ -9,3 +9,9 @@ Pytorch Code for the paper "Multi-institutional Collaborations for Improving Dee
 This is the PyTorch implemention of our paper FedBN: Federated Learning on Non-IID Features via Local Batch Normalization by Xiaoxiao Li, Meirui Jiang, Xiaofei Zhang, Michael Kamp and Qi Dou
 ### 4. FedProx: https://github.com/litian96/FedProx?utm_source=catalyzex.com
 Federated Optimization in Heterogeneous Networks
+### 5. LG-FedAvg: https://github.com/pliang279/LG-FedAvg?utm_source=catalyzex.com
+Federated Learning with Local and Global Representations
+### 6. FedPer: https://github.com/ki-ljl/FedPer
+PyTorch implementation of FedPer (Federated Learning with Personalization Layers).
+### 7. MOON: https://github.com/QinbinLi/MOON
+This is the code for paper Model-Contrastive Federated Learning.
