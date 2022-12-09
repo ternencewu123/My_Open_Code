@@ -21,3 +21,6 @@ PyTorch implementation of FedPer (Federated Learning with Personalization Layers
 
 ### 7. MOON: https://github.com/QinbinLi/MOON  | [pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Model-Contrastive_Federated_Learning_CVPR_2021_paper.pdf)
 This is the code for paper Model-Contrastive Federated Learning.
+
+### 8. FedMRI：https://github.com/chunmeifeng/FedMRI | [pdf](https://arxiv.org/pdf/2112.05752v1.pdf)
+Specificity-Preserving Federated Learning for MR Image Reconstruction
