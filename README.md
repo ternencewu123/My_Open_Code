@@ -24,3 +24,6 @@ This is the code for paper Model-Contrastive Federated Learning.
 
 ### 8. [FedMRI](https://github.com/chunmeifeng/FedMRI) | [pdf](https://arxiv.org/pdf/2112.05752v1.pdf)
 Specificity-Preserving Federated Learning for MR Image Reconstruction
+
+### 9. [FedMA](https://github.com/IBM/FedMA) | [pdf](https://openreview.net/forum?id=BkluqlSFDS)
+This is the code accompanying the ICLR 2020 paper "Federated Learning with Matched Averaging "
