@@ -16,7 +16,7 @@ Federated Optimization in Heterogeneous Networks
 ### 5. [LG-FedAvg](https://github.com/pliang279/LG-FedAvg?utm_source=catalyzex.com)  | [pdf](https://arxiv.org/pdf/2001.01523.pdf)
 Federated Learning with Local and Global Representations
 
-### 6. [FedPer](https://github.com/ki-ljl/FedPer)  | [pdf](https://arxiv.org/pdf/1912.00818.pdf)
+### 6. [FedPer](https://github.com/ki-ljl/FedPer)  | [pdf](https://arxiv.org/pdf/1912.00818.pdf) |[代码](https://github.com/ternencewu123/FedPer)
 PyTorch implementation of FedPer (Federated Learning with Personalization Layers).
 
 ### 7. [MOON](https://github.com/QinbinLi/MOON)  | [pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Model-Contrastive_Federated_Learning_CVPR_2021_paper.pdf)
