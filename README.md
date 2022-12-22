@@ -14,7 +14,7 @@ This is the PyTorch implemention of our paper FedBN: Federated Learning on Non-I
 Federated Optimization in Heterogeneous Networks
 
 ### 5. [LG-FedAvg2020](https://github.com/pliang279/LG-FedAvg?utm_source=catalyzex.com)  | [pdf](https://arxiv.org/pdf/2001.01523.pdf)
-Federated Learning with Local and Global Representations
+Think locally, act globally: Federated learning with local and global representations
 
 ### 6. [FedPer2020](https://github.com/ki-ljl/FedPer)  | [pdf](https://arxiv.org/pdf/1912.00818.pdf) |[代码](https://github.com/ternencewu123/FedPer)
 PyTorch implementation of FedPer (Federated Learning with Personalization Layers).
