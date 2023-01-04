@@ -27,3 +27,6 @@ Specificity-Preserving Federated Learning for MR Image Reconstruction
 
 ### 9. [FedMA2020](https://github.com/IBM/FedMA) | [pdf](https://openreview.net/forum?id=BkluqlSFDS)
 This is the code accompanying the ICLR 2020 paper "Federated Learning with Matched Averaging "
+
+### 10. [FedNAS-CVPRW2021](https://github.com/chaoyanghe/FedNAS)  | [pdf](https://arxiv.org/pdf/2004.08546.pdf)
+FedNAS: Federated Deep Learning via Neural Architecture Search  资源：[FedML](https://www.fedml.ai)
