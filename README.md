@@ -32,6 +32,6 @@ This is the code accompanying the ICLR 2020 paper "Federated Learning with Match
 FedNAS: Federated Deep Learning via Neural Architecture Search  资源：[FedML](https://www.fedml.ai)
 
 ## 神经常微分方程
-### 1. [Neural ODE-NIPS2018](https://github.com/rtqichen/torchdiffeq)  | [pdf](https://proceedings.neurips.cc/paper/2018/file/69386f6bb1dfed68692a24c8686939b9-Paper.pdf)
-PyTorch Implementation of Differentiable ODE Solvers.
+### 1. [Neural ODE-NIPS2018](https://github.com/rtqichen/torchdiffeq)  | [pdf](https://proceedings.neurips.cc/paper/2018/hash/69386f6bb1dfed68692a24c8686939b9-Abstract.html)
+Neural Ordinary Differential Equations
 
